@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+h1{
+    
+
+    font-family: 'Dancing Script'
+    
+}
+h2{
+  font-family: 'Great Vibes';  
+}
+nav { background-color: #CC6255;
+
+}
+ nav >a { color: white;
+text-decoration: none;
+padding:  8px 12px;
+display: inline-block;
+}
+nav > a:hover{ background-color: #9c7d85;
+
+}
+
+body {
+    font-family: 'Great Vibes', cursive;
+}
+body {background-color:#DAAd86;
+   
+}
