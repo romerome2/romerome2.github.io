@@ -1,30 +1,50 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Indie+Flower&family=Marck+Script&display=swap');
 
-h1{
     
 
-    font-family: 'Dancing Script'
-    
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dancing Script', cursive;
 }
-h2{
-  font-family: 'Great Vibes';  
-}
-nav { background-color: #CC6255;
+nav { background-color: #F1D3B3;
+    font-family: 'Marck Script', cursive;
 
 }
- nav >a { color: white;
+ nav >a { color:#87805E;
 text-decoration: none;
 padding:  8px 12px;
 display: inline-block;
 }
-nav > a:hover{ background-color: #9c7d85;
+nav > a:hover{ background-color: #243763;
 
 }
 
 body {
-    font-family: 'Great Vibes', cursive;
+
+    font-family: 'Indie Flower', cursive;
+    text-align: ;
+
 }
-body {background-color:#DAAd86;
+body {background-color:#F8ECD1;
    
+}
+.left{ 
+text-align: left;
+}
+
+footer { background-color: #D0B8A8;
+    font-family: 'Marck Script', cursive;
+    padding: 8px 12px;
+}
+ footer >a { color:#65647C;
+text-decoration: none;
+padding:  8px 12px;
+display: inline-block;
+}
+footer > a:hover{ background-color: #9c7d85;
+
+}
+.center{text-align:center
+
 }

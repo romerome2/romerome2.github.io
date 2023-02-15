@@ -14,13 +14,31 @@
 <body>
    
     <h1>Contact Information</h1>
-</p><form action="/action_page.php">
-    <label for="fname">First name:</label><br>
-    <input type="text" id="fname" name="fname" value=""><br> 
-    <label for="lname">Last name:</label><br>
-    <input type="text" id="lname" name="lname" value=""><br><br>
-    <input type="submit" value="Submit">
-  </form> <br> <hr>
+<form action="https://us-central1-steam-center-app-dev.cloudfunctions.net/formToEmail"
+method="post">
+  <input name="send-to" value="jspooner@brooklynsteamcenter.org" hidden>
+  <label for="Name">Name:</label>
+  <br>
+  <input placeholder="john doe" name="fullname">
+  <br>
+  <label>Email:</label>
+  <br>
+  <input placeholder="dor" name="email">
+  <br>
+  <br>
+  <label>Best Contact time:</label>
+  <input type="time">
+  <br>
+  <label>Comments:</label>
+  <br>
+  <textarea></textarea>
+  <br>
+  <input type="Submit">
+  <input type="reset">
+<br>
+<input type="checkbox" name="terms">
+<label>I agree to the terms to the terms and con</label>
+
   <h1>Contact Info</h1>
-  <li>jspooner@brooklynsteamcenter.org</li>
+  
   
