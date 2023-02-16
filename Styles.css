@@ -48,3 +48,16 @@ footer > a:hover{ background-color: #9c7d85;
 .center{text-align:center
 
 }
+input, textarea {
+    background-color:#DAB88B ;
+border-radius: 8px;
+color:#243763 ;
+padding: 14px;
+border: 10px ;
+
+}
+input:hover {
+background-color:#8792ab;
+}
+
+
