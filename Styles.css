@@ -60,4 +60,6 @@ input:hover {
 background-color:#8792ab;
 }
 
-
+#picture {
+    position: relative;
+}
