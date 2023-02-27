@@ -9,13 +9,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 nav { background-color: #F1D3B3;
     font-family: 'Marck Script', cursive;
-
+    position: sticky;
+    top:0;
 }
  nav >a { color:#87805E;
 text-decoration: none;
 padding:  8px 12px;
 display: inline-block;
-}
+
+} 
 nav > a:hover{ background-color: #243763;
 
 }
