@@ -7,10 +7,10 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Dancing Script', cursive;
 }
-nav { background-color: #F1D3B3;
+nav { background-color: #f1d3b3;
     font-family: 'Marck Script', cursive;
     position: sticky;
-    top:0;
+    top:;
 }
  nav >a { color:#87805E;
 text-decoration: none;
@@ -28,14 +28,24 @@ body {
     text-align: ;
 
 }
-body {background-color:#F8ECD1;
-   
+body {background-color:#f6cde1;
+    background-color: #FF866F;
+    background-color: #FF866F;
+    background-color: #FF866F;
+background-color: #FFE9F4;
+background-color: #010C02;
+background-color: #083E55;
+background-color: #1C1555;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg fill-opacity='0.5'%3E%3Ccircle fill='%231C1555' cx='50' cy='0' r='50'/%3E%3Cg fill='%232e1854' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%233c1b53' cx='50' cy='100' r='50'/%3E%3Cg fill='%23481f53' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23542252' cx='50' cy='200' r='50'/%3E%3Cg fill='%235f2651' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%236a2a50' cx='50' cy='300' r='50'/%3E%3Cg fill='%23752f4f' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%2380334d' cx='50' cy='400' r='50'/%3E%3Cg fill='%238a374c' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23953c4b' cx='50' cy='500' r='50'/%3E%3Cg fill='%239f4049' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%23aa4547' cx='50' cy='600' r='50'/%3E%3Cg fill='%23b44a46' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23bf4f43' cx='50' cy='700' r='50'/%3E%3Cg fill='%23c95441' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23d4593f' cx='50' cy='800' r='50'/%3E%3Cg fill='%23df5e3c' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23e96339' cx='50' cy='900' r='50'/%3E%3Cg fill='%23f46836' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23FF6D32' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: contain;
+   color: #FF7124;
 }
 .left{ 
 text-align: left;
 }
 
-footer { background-color: #D0B8A8;
+footer { background-color: #b95c1e;
     font-family: 'Marck Script', cursive;
     padding: 8px 12px;
 }
@@ -51,7 +61,7 @@ footer > a:hover{ background-color: #9c7d85;
 
 }
 input, textarea {
-    background-color:#DAB88B ;
+    background-color: ;
 border-radius: 8px;
 color:#243763 ;
 padding: 14px;
@@ -59,9 +69,14 @@ border: 10px ;
 
 }
 input:hover {
-background-color:#8792ab;
+background-color:#94a1c6;
 }
 
 #picture {
     position: relative;
 }
+@media screen and {max-width: 480px} {
+ body {
+background-color:;
+ }
+    
