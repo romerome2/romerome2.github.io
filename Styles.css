@@ -75,8 +75,11 @@ background-color:#94a1c6;
 #picture {
     position: relative;
 }
-@media screen and {max-width: 480px} {
- body {
-backgroud-color:;
- }
+
+@media screen and (max-width: 480px) {
+    #shoeCookie {
+        width: 350px;
+        height: auto;
+    }
+}
     
