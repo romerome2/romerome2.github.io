@@ -13,13 +13,13 @@ h1 {
 h2 {
     font-family: 'Dancing Script', cursive;
   }
-
+b
 nav { font-size: x-large;
     font-family: 'Marck Script', cursive;
     position: sticky;
     top: 0;
 }
- nav >a { color:#87805E;
+ nav >a { color:#eebb87;
 text-decoration: none;
 padding:  12px 17px;
 display: inline-block;
@@ -32,7 +32,7 @@ nav > a:hover{ background-color: #243763;
 body {
 
     font-family: 'Indie Flower', cursive;
-    text-align: ;
+    text-align: center;
 
 }
 body {
@@ -46,20 +46,17 @@ background-size: contain;
 text-align: left;
 }
 
-.reachouts {
+.LogoMod {
     text-decoration: none;
-    font-size: 30px
-}
-
-.reachouts a {
-    text-decoration-line: none;
+    color: black;
+    font-size: xxx-large;
 }
 
 footer { background-color: #b95c1e;
     font-family: 'Marck Script', cursive;
     padding: 8px 12px;
 }
- footer >a { color:#b9b8c8;
+ footer >a { color:#bebdd0;
 text-decoration: none;
 padding:  8px 12px;
 display: inline-block;
@@ -68,7 +65,8 @@ font-size: 20px
 footer > a:hover{ background-color: #2e9cc7;
 
 }
-.center{text-align:center
+.center{
+    text-align:center
 
 }
 
