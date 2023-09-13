@@ -5,7 +5,7 @@
 
 
 h1 {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'News Cycle',;
   padding-top: 9px;
   padding-bottom: 12px;
 }
@@ -19,13 +19,13 @@ nav { font-size: x-large;
     position: sticky;
     top: 0;
 }
- nav >a { color:#eebb87;
+ nav >a { color:#a28d87;
 text-decoration: none;
-padding:  12px 17px;
+padding:  22px 27px;
 display: inline-block;
 font: size x-large;;
 } 
-nav > a:hover{ background-color: #243763;
+nav > a:hover{ background-color: #152e69;
 
 }
 
@@ -33,14 +33,14 @@ body {
 
     font-family: 'Indie Flower', cursive;
     text-align: center;
-
+overflow-x: auto;
 }
 body {
-background-color: #1C1555;
+background-color: #b6b1db;
 background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg fill-opacity='0.5'%3E%3Ccircle fill='%231C1555' cx='50' cy='0' r='50'/%3E%3Cg fill='%232e1854' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%233c1b53' cx='50' cy='100' r='50'/%3E%3Cg fill='%23481f53' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23542252' cx='50' cy='200' r='50'/%3E%3Cg fill='%235f2651' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%236a2a50' cx='50' cy='300' r='50'/%3E%3Cg fill='%23752f4f' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%2380334d' cx='50' cy='400' r='50'/%3E%3Cg fill='%238a374c' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23953c4b' cx='50' cy='500' r='50'/%3E%3Cg fill='%239f4049' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%23aa4547' cx='50' cy='600' r='50'/%3E%3Cg fill='%23b44a46' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23bf4f43' cx='50' cy='700' r='50'/%3E%3Cg fill='%23c95441' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23d4593f' cx='50' cy='800' r='50'/%3E%3Cg fill='%23df5e3c' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23e96339' cx='50' cy='900' r='50'/%3E%3Cg fill='%23f46836' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23FF6D32' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
 background-attachment: fixed;
 background-size: contain;
-   color: 		#faf0e6;
+   color: 		#150909;
 }
 .left{ 
 text-align: left;
@@ -48,13 +48,13 @@ text-align: left;
 
 .LogoMod {
     text-decoration: none;
-    color: rgb(255, 82, 2);
+    color: rgb(28, 27, 26);
     font-size: xxx-large;
 }
 #phone:hover {
-    color: #eebb87;
+    color: #a55a0e;
 }
-footer { background-color: #b95c1e;
+footer { background-color: #2a65a5b9;
     font-family: 'Marck Script', cursive;
     padding: 8px 12px;
 }
@@ -73,7 +73,7 @@ footer > a:hover{ background-color: #2e9cc7;
 }
 
 p {
-    font-size: 20px
+    font-size: 21px
 }
 
 input, textarea {
